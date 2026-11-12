@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fc-anim-viewer"
+version = "0.1.0"
+description = "Read, list, and export Far Cry gun animations (.mab animation banks)."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+
+[project.scripts]
+fc-anim = "fc_anim_viewer.cli:main"

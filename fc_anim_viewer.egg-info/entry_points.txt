@@ -1,0 +1,2 @@
+[console_scripts]
+fc-anim = fc_anim_viewer.cli:main

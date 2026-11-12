@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+fc_anim_viewer/__init__.py
+fc_anim_viewer/animation_info.py
+fc_anim_viewer/archive_utils.py
+fc_anim_viewer/blender_export.py
+fc_anim_viewer/cli.py
+fc_anim_viewer/mab_parser.py
+fc_anim_viewer.egg-info/PKG-INFO
+fc_anim_viewer.egg-info/SOURCES.txt
+fc_anim_viewer.egg-info/dependency_links.txt
+fc_anim_viewer.egg-info/entry_points.txt
+fc_anim_viewer.egg-info/top_level.txt
